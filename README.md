@@ -1,6 +1,6 @@
 ### 1-create account in cloudMqtt or other clouds.
 
-### 2-the cloud provide 
+### 2-the cloud provide :
   - host name : port
   - client id
   - username
