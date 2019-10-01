@@ -14,9 +14,7 @@ import org.eclipse.paho.client.mqttv3.MqttMessage;
 
 import java.io.UnsupportedEncodingException;
 
-/**
- * Created by brijesh on 20/4/17.
- */
+
 
 public class PahoMqttClient {
 
